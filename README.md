@@ -48,49 +48,44 @@
 
   <!-- Programming Languages -->
   <strong>Programming Languages:</strong><br>
-  
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="https://golang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-  <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="GoLang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
 
   <br><br>
 
-  <!-- Data Science & Machine Learning -->
+  <!-- Data Science & ML Frameworks -->
   <strong>Data Science & ML Frameworks:</strong><br>
-  
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-  <a href="https://matplotlib.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-  <a href="https://plotly.com/python/"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="40"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" title="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" title="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" title="Plotly"/>
 
   <br><br>
 
   <!-- Time Series & Finance -->
   <strong>Time Series & Finance:</strong><br>
-  
-  <a href="https://facebook.github.io/prophet/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Prophet_logo.png" width="40"/></a>
-  <a href="https://www.statsmodels.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Statsmodels_logo.png" width="40"/></a>
-  <a href="https://pypi.org/project/yfinance/"><img src="https://raw.githubusercontent.com/ranaroussi/yfinance/master/doc/source/_static/yfinance.png" width="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Prophet_logo.png" width="40" title="Prophet"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Statsmodels_logo.png" width="40" title="Statsmodels"/>
+  <img src="https://raw.githubusercontent.com/ranaroussi/yfinance/master/doc/source/_static/yfinance.png" width="40" title="yFinance"/>
 
   <br><br>
 
   <!-- Backend / Web -->
   <strong>Backend / Web Frameworks:</strong><br>
-  
-  <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/></a>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask"/>
 
   <br><br>
 
   <!-- Platforms / Cloud -->
   <strong>Platforms & Cloud:</strong><br>
-  
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-  <a href="https://www.vmware.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" width="40"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="40" title="VMware"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
 ---
@@ -109,4 +104,9 @@
 
 <p align="center">
   <i>“Learning from data. Building intelligence. One model at a time.”</i> 🚀
+</p>
+
+<!-- Add a gradient background using CSS for GitHub README via shields.io -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20ML%20%26%20Data-Science-blueviolet?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
