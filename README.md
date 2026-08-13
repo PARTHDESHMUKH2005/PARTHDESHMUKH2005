@@ -36,11 +36,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </p>
 
-- 🏆 **JP Morgan Code for Good Hackathon**
 - 🌍 **Open Source Contributor**
 - 🌞 **Google Summer of Code (GSoC)**
 - 🤝 Looking to collaborate on **AI/ML, Data Science & Analytics projects**
-
+- 📈 Top Investment Banking companies (GOLDMAN SACHS, JPMC, MORGAN STANLEY, UBS, CITI)
 ---
 
 ## 🧠 My AI Learning Journey
