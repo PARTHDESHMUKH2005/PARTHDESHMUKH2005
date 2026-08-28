@@ -39,7 +39,7 @@
 - 🌍 **Open Source Contributor**
 - 🌞 **Google Summer of Code (GSoC)**
 - 🤝 Looking to collaborate on **AI/ML, Data Science & Analytics projects**
-- 📈 Top Investment Banking companies (GOLDMAN SACHS, JPMC, MORGAN STANLEY, UBS, CITI)
+- 📈 Top Investment Banking companies and MNCs (GOLDMAN SACHS, JPMC, MORGAN STANLEY, UBS, CITI, GOOGLE, MICROSOFT, SALESFORCE, AMAZON)
 ---
 
 ## 🧠 My AI Learning Journey
